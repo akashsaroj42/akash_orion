@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255299263202",
+    "project_id": "orion2-85c12",
+    "storage_bucket": "orion2-85c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255299263202:android:32bf85a669f378fd7c1cbb",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCby6BgIf7R4Zimi9bjE5nU0n4yhBrt4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
